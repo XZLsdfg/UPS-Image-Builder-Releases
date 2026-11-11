@@ -1,0 +1,14 @@
+
+{
+  "tag_name": "v0.1.2",
+  "body": "Тестирование автоматического обновления UPS Image Builder.",
+  "html_url": "https://github.com/XZLsdfg/UPS-Image-Builder-Releases/releases/tag/v0.1.2",
+  "assets": [
+    {
+      "name": "UPS-Image-Builder-Setup.exe",
+      "size": 33701531,
+      "digest": "sha256:77f6ba7a4846ed1380337bc45afb25ca995f69d3be8c85d18bb70d18911662af",
+      "browser_download_url": "https://github.com/XZLsdfg/UPS-Image-Builder-Releases/releases/download/v0.1.2/UPS-Image-Builder-Setup.exe"
+    }
+  ]
+}
